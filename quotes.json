@@ -294,7 +294,7 @@
     "quote" : "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
     "speaker" : "David Leinweber"
   },
-  { 
+  {
     "quote":"Happiness is when what you think, what you say, and what you do are in harmony",
     "speaker":"Mahatma Gandhi"
   },
@@ -331,6 +331,10 @@
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
     "speaker":"Haruki Murakami"
+  },
+  {
+    "quote": "Too often we don't listen with the intent to understand, instead we listen with the intent to reply",
+    "speaker": "Dr. Steven R. Covey"
   }
 
 ]
